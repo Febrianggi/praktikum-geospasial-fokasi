@@ -4,7 +4,7 @@ Modul praktikum untuk sesi *Mapping the Numbers: Exploring Geospatial Data Throu
 
 Peserta memetakan data survei resmi ke 38 provinsi Indonesia, menggabungkannya dengan katalog gempa, lalu menguji pola persebarannya. Semua data sudah ada di repo ini, jadi notebook bisa langsung dijalankan tanpa API key.
 
-[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NAMA_PENGGUNA/praktikum-geospasial-fokasi-2026/blob/main/Praktikum_Geospasial_SOLUSI.ipynb)
+[![Buka di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Febrianggi/praktikum-geospasial-fokasi/blob/main/Praktikum_Geospasial_SOLUSI.ipynb)
 
 ## Cara menjalankan
 
@@ -19,8 +19,8 @@ Kalau unduhan otomatis gagal, unggah `data_praktikum.zip` ke panel *Files* di Co
 **Komputer sendiri**
 
 ```bash
-git clone https://github.com/NAMA_PENGGUNA/praktikum-geospasial-fokasi-2026.git
-cd praktikum-geospasial-fokasi-2026
+git clone https://github.com/Febrianggi/praktikum-geospasial-fokasi.git
+cd praktikum-geospasial-fokasi
 pip install -r requirements.txt
 jupyter notebook Praktikum_Geospasial_SOLUSI.ipynb
 ```
