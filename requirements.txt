@@ -1,0 +1,10 @@
+geopandas>=1.0
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+shapely>=2.0
+mapclassify>=2.6
+folium>=0.15
+libpysal>=4.10
+esda>=2.5
+jupyter

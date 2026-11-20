@@ -1,0 +1,24 @@
+{
+ "bps_n": 38,
+ "nasional_2024": 84.71,
+ "usgs_n": 1426,
+ "usgs_lolos": 1426,
+ "usgs_keluar": 0,
+ "aturan": {
+  "id kosong": 0,
+  "id duplikat": 0,
+  "koordinat kosong atau bukan angka": 0,
+  "koordinat di luar rentang bumi": 0,
+  "di luar kotak studi 94\u2013142 BT, 11,5 LS\u20136,5 LU": 0,
+  "waktu kosong atau di luar periode": 0,
+  "bukan gempa bumi (type)": 0,
+  "magnitudo kosong atau < 4,5": 0,
+  "akurasi horizontal tidak tercatat": 0
+ },
+ "periode_utc": [
+  "2026-01-01 02:56:20.920000+00:00",
+  "2026-11-16 21:11:20.515000+00:00"
+ ],
+ "dalam_poligon": 155,
+ "geom_invalid_fixed": 2
+}

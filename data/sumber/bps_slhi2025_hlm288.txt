@@ -1,0 +1,106 @@
+            Statistik Lingkungan Hidup Indonesia 2025
+            Environment Statistics of Indonesia 2025
+
+
+Tabel                         Persentase Rumah Tangga yang Menempati Rumah dengan Ketahanan Bangunan (Atap,
+                 2.5.14       Dinding, Lantai) yang Memenuhi Syarat Menurut Provinsi, 2023 dan 2024
+Table
+                              Percentage of Households Occupying Houses with Building Durability (Roof, Walls,
+                              )ORRUV )XOÀOOLQJWKH5HTXLUHPHQWVE\3URYLQFHDQG
+
+                                                   Perkotaan                              Perdesaan                Perkotaan dan Perdesaan
+            Provinsi                                 Urban                                  Rural                      Urban and Rural
+            Province
+                                           2023               2024                2023               2024                2023        2024
+                 (1)                         (2)                (3)                 (4)                (5)                 (6)         (7)
+
+  Aceh                                      97,34             97,39                94,41             94,05               95,45       95,23
+  Sumatera Utara                            92,53             93,96                92,33             93,62               92,44       93,81
+  Sumatera Barat                            98,08             97,96                97,33             97,39               97,70       97,68
+  Riau                                      97,96             97,09                95,40             95,79               96,43       96,31
+  Jambi                                     97,55             96,64                95,13             95,07               95,95       95,58
+  Sumatera Selatan                          88,42             89,02                91,83             91,27               90,56       90,45
+  Bengkulu                                  97,70             97,42                94,14             94,72               95,36       95,61
+  Lampung                                   84,76             86,07                89,16             91,10               87,70       89,45
+  Kepulauan Bangka Belitung                 46,22             42,79                38,42             40,82               43,08       41,99
+
+
+
+
+                                                                                                    id
+  Kepulauan Riau                            64,80             68,05                51,51             44,29               63,31       65,66
+
+
+
+                                                                                                 .
+  DKI Jakarta                               46,02             45,26                       –   go             –           46,02       45,26
+  Jawa Barat                                78,34             78,85                75,34             78,67               77,68       78,81
+                                                                                    .
+                                                                                 ps
+
+  Jawa Tengah                               88,23             89,21                81,62             82,85               85,11       86,18
+  DI Yogyakarta                             94,57             95,18                93,34             94,42               94,26       95,00
+                                                                           .b
+
+
+  Jawa Timur                                88,63             89,32                85,65             86,73               87,32       88,17
+  Banten                                    77,65             78,40                71,24             71,54               76,24       77,06
+                                                                  w
+                                                                 w
+
+
+
+
+  Bali                                      94,31             93,00                92,18             94,94               93,66       93,53
+  Nusa Tenggara Barat                       88,35             88,93                79,77             80,39               84,23       84,83
+                                                         //w
+
+
+
+
+  Nusa Tenggara Timur                       78,50             84,53                57,29             61,16               63,24       67,50
+                                                       s:
+
+
+
+
+  Kalimantan Barat                          98,83             99,24                97,36             98,34               97,92       98,68
+  Kalimantan Tengah                         95,31             96,91                91,70             94,07               93,27       95,31
+                                          tp
+
+
+
+
+  Kalimantan Selatan                        93,89             92,83                86,35             89,58               90,10       91,20
+                                       ht
+
+
+
+
+  Kalimantan Timur                          96,20             96,99                96,25             97,09               96,22       97,02
+  Kalimantan Utara                          99,72             99,76                99,17             98,70               99,53       99,39
+
+  Sulawesi Utara                            94,87             95,67                92,40             92,62               93,78       94,32
+  Sulawesi Tengah                           97,08             96,72                91,66             93,35               93,46       94,48
+  Sulawesi Selatan                          90,79             91,18                83,24             81,57               86,73       86,09
+  Sulawesi Tenggara                         95,67             96,26                90,59             91,64               92,53       93,46
+  Gorontalo                                 99,34             99,45                95,93             96,45               97,50       97,85
+  Sulawesi Barat                            90,12             91,40                91,31             91,64               91,07       91,59
+
+  Maluku                                    96,06             96,24                88,82             89,83               91,85       92,70
+  Maluku Utara                              98,56             98,15                91,82             91,15               93,84       93,28
+  Papua Barat                               96,53             98,68                96,18             98,18               96,32       98,33
+  Papua Barat Daya                                 –          97,54                       –          95,87                       –   96,75
+  Papua                                     96,73             96,55                55,05             96,86               67,19       96,68
+  Papua Selatan                                    –          96,17                       –          84,04                       –   88,39
+  Papua Tengah                                     –          98,93                       –          57,32                       –   66,61
+  Papua Pegunungan                                 –          90,43                       –          36,93                       –   40,85
+
+  Indonesia                                83,42              83,84               84,63              85,94               83,92       84,71
+Sumber/Source: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional/BPS-Statistics Indonesia, National Socio Economic Survey
+
+
+
+
+         262
+
